@@ -1,0 +1,7 @@
+{
+    "site" : ["naver"],
+    "naver" : {
+        "url" : "https://map.naver.com/p/search/",
+        "tag" : {"iframe" : "searchIframe"}
+    }
+}
